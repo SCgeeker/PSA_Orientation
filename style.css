@@ -1,0 +1,49 @@
+.reveal section img { 
+  background:none; 
+  border:none; 
+  box-shadow:none; 
+}
+
+.reveal h1 {
+  color: #4756ca;
+  font-size: 18;
+}
+
+.reveal h2 {
+  color: #3186b2;
+  text-align: left;
+  font-size: 16;
+}
+
+.reveal .slides {
+    text-align: left;
+}
+
+ .reveal p, .reveal ol, .reveal ul, .reveal li {
+  color: #0fc9e7;
+}
+
+table { margin-left: auto; margin-right: auto; vertical-align: middle;}
+table.tableblock {max-width:100%;border-collapse:separate}
+p.tableblock:last-child {margin-bottom:0; }
+td.tableblock>.content>:last-child {margin-bottom:-1.25em}
+td.tableblock>.content>:last-child.sidebarblock {margin-bottom:0}
+
+#left {
+  left:-8.33%;
+  text-align: left;
+  float: left;
+  width:20%;
+  z-index:-10;
+}
+
+#right {
+  left:31.25%;
+  top: 75px;
+  float: right;
+  text-align: left;
+  z-index:-10;
+  width:80%;
+}
+/* focus point for presentation */
+/* Start http://www.cursors-4u.com */ * {cursor: url(http://ani.cursors-4u.net/cursors/cur-13/cur1162.ani), url(http://ani.cursors-4u.net/cursors/cur-13/cur1162.png), auto !important;} /* End http://www.cursors-4u.com */

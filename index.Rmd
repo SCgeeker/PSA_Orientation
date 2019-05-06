@@ -1,0 +1,175 @@
+---
+output: 
+  revealjs::revealjs_presentation:
+    transition: none
+    theme: white
+    center: true
+    width: "100%"
+    height: "100%"
+    margin: 0
+    minScale: 1
+    maxScale: 1
+    incremental: true
+css: style.css
+bibliography: "D:/core/Research/projects/Embodied/EXPDATA/ActionObject/2016_Simulation/report/includes/bib/Orientation.bib"
+---
+
+# Simulated Object Orientations in Reading Sentences
+
+## About me
+
+Sau-Chin Chen </br>
+<small>Associative Professor, Department of Human Development and Psychology</small> </br>
+<small>Tzu-Chi University</small>
+
+<img src="https://osf.io/static/img/circle_logo.png"  height="20" width="20"> <small>Center for Open Science, Ambassador</small></br>
+<img src="https://psysciacc.files.wordpress.com/2017/10/cropped-cropped-psa.png"  height="20" width="20"> 
+<small>Psychological SCience Accelerators, Fellow, Assistant Director</small></br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Website11.png"  height="20" width="20"> [<small>scchen.com</small>](http://scchen.com)
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>  <small>[Fork my slides on Github](https://github.com/SCgeeker/)</small>
+
+# Orientation and Size
+
+## Issues
+
+>- **Mental Simulation**: Our minds simulate what we are reading.
+>- **Match Advantage**: Faster responses to the object pictures which are compatible with our simulations.
+
+----
+
+|Properties|Example|Chone's d_z|
+|:---:|:---:|---|
+|<samll>Shape</small>|![](./includes/img/shape.png)|.27 ~ .31|
+|<small>Color</small>|![](./includes/img/color.png)|.20 ~ .48|
+|<small>Size</small>|![](./includes/img/size.png)|.07 ~ .27|
+|<small>Orientation</small>|![](./includes/img/orientation.png)|.07 ~ .13|
+
+<small> Source: @ZwaanRevisitingMentalSimulation2012; @koning_mental_2017; @dekoningSizeDoesMatter2017 </small>
+
+----
+
+### Why the orientation effect has the smallest effect size?
+
+- Intrinsic vs. Extrinsic
+- Only small objects were employed in the investigation of orientation effect
+- Diversity among languages
+- Particular task demand
+
+## Registered Report
+
+----
+
+<iframe class="stretch" data-src="https://psyarxiv.com/a3vwc/"></iframe>
+
+----
+
+### Investigate match advantage of object orientation between ...
+
+- Large objects vs. Small objects: **crane** vs. **cane**
+- Tasks: Picture Verification vs. Picture Identification vs. Picture Naming
+- Languages: English vs. Dutch(Dutch; English) vs. Chinese
+
+
+----
+
+### Pre-analysis for sample size estimation
+
+- Estimate maximal sample size in terms of past results and .80 power
+- Decide Bayes Factor for stopping data collection
+
+----
+
+## Findings
+
+----
+
+### About picture veification
+
+![](D:/core/Research/projects/Embodied/EXPDATA/ActionObject/2016_Simulation/report/Stage2_manuscript_files/figure-latex/study1-meta-1.png)
+
+----
+
+### About picture identification 
+
+![](D:/core/Research/OpenSci/Public/PSA_Orientation/includes/img/PP.png)
+
+----
+
+### About picture naming
+
+No language group shows match advantage in picture naming.
+
+## Conclusion
+
+- Orientation effects shifted with object size
+- Moderator of languages
+- Demands of picture properties
+
+
+# Orientation effects across languages
+
+## Issue
+
+>- **Language Diversity**: Amenrican English shows the robust orientation effect
+>- **Embodied Cognition**: Extended studies depended on small effect size
+
+----
+
+>- How would langauge alter match advantage of object orientation?
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg/480px-Black_hole_-_Messier_87_crop_max_res.jpg)
+
+## Registered Report
+
+----
+
+<iframe class="stretch" data-src="https://psysciacc.org/"></iframe>
+
+----
+
+<iframe class="stretch" data-src="https://nicholas-coles.shinyapps.io/PSA_Map_Prototype/"></iframe>
+
+----
+
+![](./includes/img/PSA_project_phases.png)
+
+<small>source: @moshontzPsychologicalScienceAccelerator2018 </small>
+
+## Latest news
+
+----
+
+<iframe class="stretch" data-src="https://psyarxiv.com/t2pjv/"></iframe>
+
+----
+
+![](D:/core/Research/OpenSci/PSA/2018/2017_submission_orientation_generalicity/Registered_Plan/includes/fig/map.png)
+
+# Multi-Site Collaboration
+
+## Advantages (for sciences)
+
+- Investigate **psychological effects** which could be diverse among cultures, langauges, societies, and any human traits.
+- Accumulate the reproducible data in science literature.
+
+## Challenges (for local site)
+
+- Limited resource
+- Incompatible with current research interest
+- Awareness to update members' practices
+- Motivation toward open sciences
+
+## Opportunities (for local site)
+
+- Explore new research topics
+- Share experience
+- Upgrade scientific scope
+
+## Thoughts and Recommendations
+
+- Do what you like
+- Improve your standard of research quality
+- Think about the global potential of your local study
+
+## Reference
