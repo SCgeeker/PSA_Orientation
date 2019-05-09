@@ -34,11 +34,11 @@ Sau-Chin Chen </br>
 ## Issues
 
 >- **Mental Simulation**: Our minds simulate what we are reading.
->- **Match Advantage**: Faster responses to the object pictures which are compatible with our simulations.
+>- **Match Advantage**: (Check example)Faster responses to the object pictures which are compatible with our simulations.
 
 ----
 
-|Properties|Example|Chone's d_z|
+|Properties|Example|$Chone's\ d_z$|
 |:---:|:---:|---|
 |<samll>Shape</small>|![](./includes/img/shape.png)|.27 ~ .31|
 |<small>Color</small>|![](./includes/img/color.png)|.20 ~ .48|
@@ -51,10 +51,12 @@ Sau-Chin Chen </br>
 
 ### Why the orientation effect has the smallest effect size?
 
-- Intrinsic vs. Extrinsic
-- Only small objects were employed in the investigation of orientation effect
-- Diversity among languages
-- Particular task demand
+- Theory issues
+  - Intrinsic vs. Extrinsic
+  - Diversity among languages
+- Methodology issues
+  - Only small objects were employed in the investigation of orientation effect
+  - Task demands: Verification only?
 
 ## Registered Report
 
@@ -67,7 +69,7 @@ Sau-Chin Chen </br>
 ### Investigate match advantage of object orientation between ...
 
 - Large objects vs. Small objects: **crane** vs. **cane**
-- Tasks: Picture Verification vs. Picture Identification vs. Picture Naming
+- **Tasks** Picture Verification vs. Pictures Comparison vs. Picture Naming
 - Languages: English vs. Dutch(Dutch; English) vs. Chinese
 
 
@@ -90,7 +92,7 @@ Sau-Chin Chen </br>
 
 ----
 
-### About picture identification 
+### About pictures comparison 
 
 ![](D:/core/Research/OpenSci/Public/PSA_Orientation/includes/img/PP.png)
 
@@ -98,27 +100,28 @@ Sau-Chin Chen </br>
 
 ### About picture naming
 
-No language group shows match advantage in picture naming.
+- No language group shows match advantage of object orientation.
+- Naming small objects was faster than naming large objects.
 
 ## Conclusion
 
-- Orientation effects shifted with object size
+- Orientation effects shifted with object size and task demands
 - Moderator of languages
-- Demands of picture properties
-
 
 # Orientation effects across languages
 
 ## Issue
 
->- **Language Diversity**: Amenrican English shows the robust orientation effect
->- **Embodied Cognition**: Extended studies depended on small effect size
+>- **Language Diversity**: Finding robust orientation effect in addition to Amenrican English?
+>- **Embodied Cognition**: Studies tested extended hypothesis in terms of small effect size
 
 ----
 
->- How would langauge alter match advantage of object orientation?
+>- Which langauge aspects would alter match advantage of object orientation?
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg/480px-Black_hole_-_Messier_87_crop_max_res.jpg)
+|Theory|Evidence|
+|---|---|
+|![Credit: Roen Kelly](./includes/img/Black-hole-travel_Discover.jpg)|![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg/480px-Black_hole_-_Messier_87_crop_max_res.jpg)|
 
 ## Registered Report
 
