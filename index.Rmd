@@ -21,9 +21,16 @@ css: style.css
 
 ## Beginning 
 
-- (You) want to lunch a collaborative research project.
+- (You) want to launch a collaborative research project.
 - (Your) research interest requires a global examination.
-- (You) have the plan but require a consultation.
+- (You) have a big plan but require hands.
+
+----
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=TRUE, fig.width=300}
+knitr::include_graphics(path = "Lakens_to_EverythingHertz.png")
+```
+
 
 ## Projects
 
