@@ -19,7 +19,7 @@ bibliography: "D:/core/Research/projects/Embodied/EXPDATA/ActionObject/2016_Simu
 ## About me
 
 Sau-Chin Chen </br>
-<small>Associative Professor, Department of Human Development and Psychology</small> </br>
+<small>Associate Professor, Department of Human Development and Psychology</small> </br>
 <small>Tzu-Chi University</small>
 
 <img src="https://osf.io/static/img/circle_logo.png"  height="20" width="20"> <small>Center for Open Science, Ambassador</small></br>
@@ -68,7 +68,7 @@ Sau-Chin Chen </br>
 
 - Large objects vs. Small objects: **crane** vs. **cane**
 - Tasks: Picture Verification vs. Picture Identification vs. Picture Naming
-- Languages: English vs. Dutch(Dutch; English) vs. Chinese
+- Languages: English & Dutch vs. Chinese
 
 
 ----
@@ -103,7 +103,7 @@ No language group shows match advantage in picture naming.
 ## Conclusion
 
 - Orientation effects shifted with object size
-- Moderator of languages
+- Languages as moderator
 - Demands of picture properties
 
 
@@ -111,12 +111,12 @@ No language group shows match advantage in picture naming.
 
 ## Issue
 
->- **Language Diversity**: American English shows the robust orientation effect
->- **Embodied Cognition**: Extended studies depended on small effect size
+>- **Language Diversity**: American English shows a robust orientation effect
+>- **Embodied Cognition**: Extended studies showed small effect size
 
 ----
 
->- How would language alter match advantage of object orientation?
+>- How different languages affect the match advantage of object orientation?
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg/480px-Black_hole_-_Messier_87_crop_max_res.jpg)
 
@@ -150,21 +150,31 @@ No language group shows match advantage in picture naming.
 
 ## Advantages (for sciences)
 
-- Investigate **psychological effects** which could be diverse among cultures, langauges, societies, and any human traits.
-- Accumulate the reproducible data in science literature.
+- Investigate **psychological effects** which could differ among cultures, languages, societies, and any other similar categories in human species.
+- Accumulate the reproducible data to enrich science literature.
 
-## Challenges (for local site)
+## Challenges (for local sites/psychological laboratories in various locations)
 
-- Limited resource
+- Limited resources
 - Incompatible with current research interest
-- Awareness to update members' practices
-- Motivation toward open sciences
+- A need to keep members' skills up to date
+- Motivation to promote open science
+- Access to non-student samples
+- Data management compatible with PSA's bylaws
 
-## Opportunities (for local site)
+## Opportunities (for local sites)
 
 - Explore new research topics
 - Share experience
 - Upgrade scientific scope
+- Be a part of big replication projects
+- Learning new tools
+- Co-authoring papers (publications in prestigious journals)
+- Be a part of testing psychological projects on non-WEIRD populations and thus engaging in improving the field
+- New collaboration opportunities
+- Meeting scientists with similar interests from all over the world
+- Contributing to huge datasets for future meta-science studies
+- Using PSA's excellent translation resources
 
 ## Thoughts and Recommendations
 
