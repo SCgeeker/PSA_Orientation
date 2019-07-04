@@ -55,18 +55,16 @@ Sau-Chin Chen </br>
 ## Issues
 
 >- **Mental Simulation**: Our minds simulate what we are reading.
->- **Match Advantage**: (Check example)Faster responses to the object pictures which are compatible with our simulations.
+>- **Match Advantage**: Faster responses to the object pictures which are compatible with our simulations.
 
 ----
 
 ### Why the orientation effect has the smallest effect size?
 
-- Theory issues
-  - Intrinsic vs. Extrinsic
-  - Diversity among languages
-- Methodology issues
-  - Only small objects were employed in the investigation of orientation effect
-  - Task demands: Verification only?
+>- Intrinsic vs. Extrinsic
+- Only small objects were employed in the investigation of orientation effect
+- Diversity among languages
+- Particular task demand
 
 ## Registered Report
 
@@ -136,8 +134,8 @@ Sau-Chin Chen </br>
 
 ## Confirmation and Exploration
 
->- **Language Diversity**: Finding robust orientation effect in addition to Amenrican English?
->- **Embodied Cognition**: Studies tested extended hypothesis in terms of small effect size
+>- **Language Diversity**: American English shows the robust orientation effect
+>- **Embodied Cognition**: Extended studies depended on small effect size
 
 ----
 
@@ -173,6 +171,7 @@ Sau-Chin Chen </br>
 
 ![](D:/core/Research/OpenSci/PSA/projects/2017_submission_orientation_generalicity/Registered_Plan/includes/fig/map.png)
 
+<!---
 # Before propose my collaborative project
 
 - All collaborators for my project
@@ -187,31 +186,31 @@ Sau-Chin Chen </br>
 - Do meta-research for your plan
 - Join the collaborative project close to your research interest
 - StudySwap
+--->
 
-# How to propose my first  collaborative project
-
-- One collaborator for all my studies
-
-## Challenges (for local sites)
-
-- Limited resource
-- Only a few researchers share the interest with you
-- Your fellows have no motivation toward open sciences
-
-## Opportunities (for local sites)
-
-- Explore new research topics
-- Share experience
-- Upgrade scientific scope
+# How to initiate a multi-site collaboration
 
 ## Advantages (for sciences)
 
-- Investigate **psychological effects** which could be diverse among cultures, langauges, societies, and any human traits.
+>- Investigate **psychological effects** which could be diverse among cultures, langauges, societies, and any human traits.
 - Accumulate the reproducible data in science literature.
+
+## Challenges (for local site)
+
+>- Limited resource
+- Incompatible with current research interest
+- Awareness to update members' practices
+- Motivation toward open sciences
+
+## Opportunities (for local site)
+
+>- Explore new research topics
+- Share experience
+- Upgrade scientific scope
 
 ## Thoughts and Recommendations
 
-- Do what you like
+>- Do what you like
 - Improve your standard of research quality
 - Think about the global potential of your local study
 

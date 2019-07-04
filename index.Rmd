@@ -13,11 +13,13 @@ output:
 css: style.css
 ---
 
+## For who wish start a big plan
+
 ## Plan
 
 - Before Lunch: Project Leads' Presentations
-- Lunch Time: Social communication
-- After Lunch: Q & A; More communications
+- Lunch Time: Social communications
+- After Lunch: Q & A; mini-Hackthon
 
 ## Beginning 
 
@@ -53,7 +55,7 @@ knitr::include_graphics(path = "./includes/img/Lakens_to_EverythingHertz.png")
 
 ## Projects
 
-|[![OBJECT ORIENTATION](./includes/img/orientation.png)](003_project.html)|![TRUE BELIEF](./includes/img/004.jpg)|
+|[![OBJECT ORIENTATION](./includes/img/orientation.png)](003_project.html)|[![TRUE BELIEF](./includes/img/004.jpg)](https://osf.io/8ru9e/)|
 |:---:|:---:|
 ||[![TROLLEY PROBLEM](./includes/img/006.jpg)](https://osf.io/ypqhb/)|
 
