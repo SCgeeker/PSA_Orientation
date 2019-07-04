@@ -132,18 +132,12 @@ Sau-Chin Chen </br>
   Members could run this project with the limited resource  </br>
   Members could afford the estimated sample size 
 
-## Issue
+----
+
+## Confirmation and Exploration
 
 >- **Language Diversity**: Finding robust orientation effect in addition to Amenrican English?
 >- **Embodied Cognition**: Studies tested extended hypothesis in terms of small effect size
-
-----
-
->- Which langauge aspects would alter match advantage of object orientation?
-
->- **Language Diversity**: American English shows the robust orientation effect
-
->- **Embodied Cognition**: Extended studies depended on small effect size
 
 ----
 
@@ -201,9 +195,8 @@ Sau-Chin Chen </br>
 ## Challenges (for local sites)
 
 - Limited resource
-- Incompatible with research interest
-- Awareness to update lab members' practices
-- Motivation toward open sciences
+- Only a few researchers share the interest with you
+- Your fellows have no motivation toward open sciences
 
 ## Opportunities (for local sites)
 
